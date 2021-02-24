@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
 
 #header_wrap, #footer_wrap {
   background: #222 !important; 
