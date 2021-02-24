@@ -1,3 +1,5 @@
 ### About Bob
-Bob ❤️ GH Pages
+Bob ❤️ GH Pages  
 Bob 💚 Microsoft
+
+Bob is Bob
